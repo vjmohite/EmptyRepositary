@@ -15,4 +15,9 @@ public static update(){
 
 }
 
+
+public void delete(){
+
+}
+
 }
