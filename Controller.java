@@ -14,4 +14,8 @@ public void updateEmployee(){
 public static update(){
 
 }
+
+public void add(){
+
+}
 }
