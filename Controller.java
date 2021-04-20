@@ -15,4 +15,8 @@ public static update(){
 
 }
 
+public void insert(){
+
+}
+
 }
